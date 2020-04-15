@@ -1,6 +1,6 @@
 aliyun: 
   sk: sdfsdf
-  name: git-name-dev
+  name: git-name-dev1
 spring:
   datasource:
     username: root
