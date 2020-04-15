@@ -1,3 +1,5 @@
+aliyun: 
+  sk: sdfsdf
 spring:
   datasource:
     username: root
