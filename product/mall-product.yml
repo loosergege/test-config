@@ -1,7 +1,7 @@
 aliyun: 
   sk: sdfsdf
   name: git-name
-  pass: gitak-pass2
+  pass: gitak-pass3
 spring:
   datasource:
     username: root
